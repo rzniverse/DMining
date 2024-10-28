@@ -1,0 +1,2 @@
+https://github.com/rizalespe/Dataset-Sentimen-Analisis-Bahasa-Indonesia?tab=readme-ov-file
+https://www.kaggle.com/code/arunkumar1809/youtube-comments-sentiment-analyser/notebook
